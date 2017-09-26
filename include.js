@@ -1,4 +1,4 @@
-include = function() {
+export default function() {
   // save references to save a few bytes
   var args = arguments;
   var doc = document;
